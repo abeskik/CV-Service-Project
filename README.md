@@ -8,10 +8,10 @@
 # Build React JS Frontend Application
 ## Create a React UI with Create React App 
 ### Using npm
-`npm init react-app react-frontend`.
-`cd client`.
-`npm start`.
-`npm run dev`.
+`npm init react-app react-frontend`._
+`cd client`._
+`npm start`._
+`npm run dev`._
 
 Runs the app in development mode. Open <http://localhost:3000> to view it in the browser.
 
