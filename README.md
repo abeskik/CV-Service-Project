@@ -1,23 +1,15 @@
-# CV-Service-Project
-## We will build two projects:
+# React File Upload
 
-1. react-frontend (client) – Consume REST API
-2. sprintboot-backend (server) – To develop REST API
+> This is a full stack React-Express file uploader but could easily be modified to work with any back-end including cloud storage
 
-# Client-Server Architecture 
+## Quick Start
 
-# Build React JS Frontend Application
-## Create a React UI with Create React App 
-### Using npm
-`npm init react-app react-frontend`\
-`cd client`\
-`npm start`\
-`npm run dev`
+```bash
+# Install dependencies server/client
+npm install
+cd client
+npm install
 
-Runs the app in development mode. Open <http://localhost:3000> to view it in the browser.
-
-# Develop Spring Boot Backend Application
-We will use Spring Data JPA to develop the repository layer and we use the H2 in-memory database to store the data.
-
-Hit this <http://localhost:8080/api/users> link in a browser.
-
+# Serve on localhost:3000
+npm run dev
+```
